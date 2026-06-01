@@ -18,8 +18,8 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 ## Program:
 ```
 Program to implement Reverse a String
-Developed by: Krishna Prasad S
-Register Number: 212223230108
+Developed by: Pradeep Kumar G
+Register Number: 212223230150
 ```
 ```java
 import java.util.*;
